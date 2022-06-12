@@ -4,6 +4,6 @@ dist
 auth/yarn.lock
 auth/package-lock.json
 container/yarn.lock
-.gitignore
 marketing/package-lock.json
 marketing/yarn.lock
+*/node_modules
